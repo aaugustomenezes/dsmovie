@@ -4,7 +4,7 @@ https://augustomovies.netlify.app/ <br>
 Tecnologias e plataformas utilizadas no desenvolvimento:<br>
 Java<br>
 Spring Boot<br>
-React Native<br>
+React<br>
 Typescript<br>
 Bootstrap 5<br>
 NodeJs<br>
